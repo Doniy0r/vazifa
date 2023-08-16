@@ -1,0 +1,12 @@
+.inp{
+    width: 200px;
+    background-color: transparent;
+    font-size: 20px;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-left: 25px;
+
+}
+.inp::placeholder{
+    text-align: center;
+}
